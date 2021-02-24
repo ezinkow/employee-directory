@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/employee-directory-react/static/css/main.4f67c0c5.chunk.css",
-    "main.js": "/employee-directory-react/static/js/main.5a76438d.chunk.js",
-    "main.js.map": "/employee-directory-react/static/js/main.5a76438d.chunk.js.map",
-    "runtime-main.js": "/employee-directory-react/static/js/runtime-main.37cc136c.js",
-    "runtime-main.js.map": "/employee-directory-react/static/js/runtime-main.37cc136c.js.map",
-    "static/js/2.6934e1f2.chunk.js": "/employee-directory-react/static/js/2.6934e1f2.chunk.js",
-    "static/js/2.6934e1f2.chunk.js.map": "/employee-directory-react/static/js/2.6934e1f2.chunk.js.map",
-    "static/js/3.91787f99.chunk.js": "/employee-directory-react/static/js/3.91787f99.chunk.js",
-    "static/js/3.91787f99.chunk.js.map": "/employee-directory-react/static/js/3.91787f99.chunk.js.map",
-    "index.html": "/employee-directory-react/index.html",
-    "static/css/main.4f67c0c5.chunk.css.map": "/employee-directory-react/static/css/main.4f67c0c5.chunk.css.map",
-    "static/js/2.6934e1f2.chunk.js.LICENSE.txt": "/employee-directory-react/static/js/2.6934e1f2.chunk.js.LICENSE.txt"
+    "main.css": "/employee-directory/static/css/main.4f67c0c5.chunk.css",
+    "main.js": "/employee-directory/static/js/main.5a76438d.chunk.js",
+    "main.js.map": "/employee-directory/static/js/main.5a76438d.chunk.js.map",
+    "runtime-main.js": "/employee-directory/static/js/runtime-main.e8781e53.js",
+    "runtime-main.js.map": "/employee-directory/static/js/runtime-main.e8781e53.js.map",
+    "static/js/2.6934e1f2.chunk.js": "/employee-directory/static/js/2.6934e1f2.chunk.js",
+    "static/js/2.6934e1f2.chunk.js.map": "/employee-directory/static/js/2.6934e1f2.chunk.js.map",
+    "static/js/3.91787f99.chunk.js": "/employee-directory/static/js/3.91787f99.chunk.js",
+    "static/js/3.91787f99.chunk.js.map": "/employee-directory/static/js/3.91787f99.chunk.js.map",
+    "index.html": "/employee-directory/index.html",
+    "static/css/main.4f67c0c5.chunk.css.map": "/employee-directory/static/css/main.4f67c0c5.chunk.css.map",
+    "static/js/2.6934e1f2.chunk.js.LICENSE.txt": "/employee-directory/static/js/2.6934e1f2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.37cc136c.js",
+    "static/js/runtime-main.e8781e53.js",
     "static/js/2.6934e1f2.chunk.js",
     "static/css/main.4f67c0c5.chunk.css",
     "static/js/main.5a76438d.chunk.js"

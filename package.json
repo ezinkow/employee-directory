@@ -13,7 +13,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
-  "homepage": "http://ezinkow.github.io/employee-directory-react",
+  "homepage": "http://ezinkow.github.io/employee-directory",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",

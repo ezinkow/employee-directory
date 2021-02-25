@@ -37,9 +37,9 @@ export default function EmployeeDisplay() {
         apiCall()
     }, [])
 
-    useEffect(() => {
-        console.log('names', ...names)
-    })
+    // useEffect(() => {
+    //     console.log('names', ...names)
+    // })
 
     function formatDate(date) {
         const dateArray = date.split("-");
@@ -71,10 +71,10 @@ export default function EmployeeDisplay() {
             />
             <div className="table">
                 <TableContainer component={Paper}>
-                    <DataGrid
+                    {/* <DataGrid
                         {...names}
                         sortModel={dataGrid}
-                    />
+                    /> */}
                     <Table className={classes.table} aria-label="simple table">
                         <TableHead>
                             <TableRow>

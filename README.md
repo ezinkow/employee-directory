@@ -8,7 +8,7 @@ https://ezinkow.github.io/employee-directory/
 
 ## About This Project:
 
-This was a homework assignment as part of the Northwestern Coding Bootcamp to build an application to organize and search employees in a database.
+This app is an application to organize and search employees in a database.
 
 This was built with React.
 
